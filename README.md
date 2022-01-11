@@ -74,13 +74,13 @@
 
 ### :zap: GitHub Stats:
 
-<img align="left" alt="GUGUDALI's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GUGUDALI&show_icons=true&hide_border=true" />
+<img alt="GUGUDALI's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GUGUDALI&show_icons=true&hide_border=true" />
 
 <br />
 
 ### :zap: Top Languages:
 
-<img align="top" alt="GUGUDALI's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUGUDALI" />
+<img alt="GUGUDALI's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUGUDALI" />
 
 
 [twitch]: https://twitch.tv/GUGUDALITV
