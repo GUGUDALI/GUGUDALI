@@ -1,13 +1,17 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hello, I'm Selimcan YILDIZ- aka [GUGUDALI][website] 👋
 
 [![Website](https://img.shields.io/website?label=gugudali.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fgugudali.blogspot.com)](https://gugudali.blogspot.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/selimcan_yildiz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## Hello, I'm Selimcan "GUGUDALI" YILDIZ
+<br />
 
 - 👯 I was born in 1998 in Trabzon, I live in Rize
 - ⚡ For most of my life I have been able to play games that only my computer can open
 - 🌱 I have a congenital keratoconus disease in my eyes and my right eye sees 30%. my left eye sees 24%
+
+<br />
+
+---
 
 ### Connect with me:
 
@@ -37,9 +41,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-</details>
-
-<br />
 <br />
 
 ---
@@ -60,29 +61,27 @@
 
 ➡️ [more blog posts...](https://GUGUDALI.blogspot.com)
 
+<br />
+
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+### :zap: Recent GitHub Activity:
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-</details>
+<br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### :zap: GitHub Stats:
 
-  <img align="left" alt="GUGUDALI's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GUGUDALI&show_icons=true&hide_border=true" />
+<img align="left" alt="GUGUDALI's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GUGUDALI&show_icons=true&hide_border=true" />
 
-</details>
+<br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### :zap: Top Languages:
 
-  <img align="left" alt="GUGUDALI's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUGUDALI" />
+<img align="left" alt="GUGUDALI's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUGUDALI" />
 
-</details>
 
 [twitch]: https://twitch.tv/GUGUDALITV
 [youtube]: https://youtube.com/GUGUDALITV
