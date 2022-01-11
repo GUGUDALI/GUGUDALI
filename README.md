@@ -1,9 +1,8 @@
-### Hello, I'm Selimcan YILDIZ- aka [GUGUDALI][website] 👋
+### Hello, I'm Selimcan YILDIZ - aka [GUGUDALI][website] 👋
 
 [![Website](https://img.shields.io/website?label=gugudali.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fgugudali.blogspot.com)](https://gugudali.blogspot.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/selimcan_yildiz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-<br />
 
 - 👯 I was born in 1998 in Trabzon, I live in Rize
 - ⚡ For most of my life I have been able to play games that only my computer can open
@@ -20,8 +19,6 @@
 [<img align="left" alt="GUGUDALI | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
----
 
 ### :zap: Languages and Tools:
   
