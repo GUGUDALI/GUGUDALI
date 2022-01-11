@@ -1,4 +1,4 @@
-### Hello, I'm Selimcan YILDIZ - aka [GUGUDALI][website] 👋
+### Hello, I'm Selimcan ["GUGUDALI"][website] YILDIZ 👋
 
 [![Website](https://img.shields.io/website?label=gugudali.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fgugudali.blogspot.com)](https://gugudali.blogspot.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/selimcan_yildiz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
