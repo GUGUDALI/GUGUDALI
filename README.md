@@ -1,8 +1,5 @@
 ### Hello, I'm Selimcan ["GUGUDALI"][website] YILDIZ 👋
 
-[![Website](https://img.shields.io/website?label=gugudali.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fgugudali.blogspot.com)](https://gugudali.blogspot.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/selimcan_yildiz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 
 - 👯 I was born in 1998 in Trabzon, I live in Rize
 - ⚡ For most of my life I have been able to play games that only my computer can open
@@ -10,6 +7,9 @@
 
 
 ### Connect with me:
+
+[![Website](https://img.shields.io/website?label=gugudali.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fgugudali.blogspot.com)](https://gugudali.blogspot.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/selimcan_yildiz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 [<img align="left" alt="GUGUDALI | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="GUGUDALI | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
