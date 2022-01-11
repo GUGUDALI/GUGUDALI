@@ -9,9 +9,6 @@
 - ⚡ For most of my life I have been able to play games that only my computer can open
 - 🌱 I have a congenital keratoconus disease in my eyes and my right eye sees 30%. my left eye sees 24%
 
-<br />
-
----
 
 ### Connect with me:
 
@@ -23,6 +20,8 @@
 [<img align="left" alt="GUGUDALI | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
+---
 
 ### :zap: Languages and Tools:
   
@@ -52,7 +51,6 @@
 
 ➡️ [more videos...](https://youtube.com/GUGUDALI)
 
----
 
 ### 📕 Latest Blog Posts
 
@@ -70,13 +68,11 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<br />
 
 ### :zap: GitHub Stats:
 
 <img alt="GUGUDALI's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GUGUDALI&show_icons=true&hide_border=true" />
 
-<br />
 
 ### :zap: Top Languages:
 
