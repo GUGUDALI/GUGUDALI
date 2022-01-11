@@ -80,7 +80,7 @@
 
 ### :zap: Top Languages:
 
-<img align="left" alt="GUGUDALI's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUGUDALI" />
+<img align="top" alt="GUGUDALI's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUGUDALI" />
 
 
 [twitch]: https://twitch.tv/GUGUDALITV
